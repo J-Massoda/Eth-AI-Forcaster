@@ -1,5 +1,3 @@
-# Eth-AI-Forcaster
-
 # Ethereum AI forecaster
 
 #Description
